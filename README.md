@@ -1,5 +1,5 @@
 # About Me:
-Hey! I am Roshith, currently pursuing my bachelors in Electronics and communication at KLE Technological University, Hubli. <br>I am interested in Frontend Web development. I am currently learning Javascript and React. 
+Hey! I am Roshith, currently pursuing my bachelor's in Electronics and communication at KLE Technological University, Hubli. <br>I am interested in Frontend Web development. I am currently learning Javascript and React. 
 
 
 ## 🌐 Socials:
