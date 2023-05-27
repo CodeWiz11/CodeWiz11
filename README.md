@@ -13,8 +13,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=CodeWiz11&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CodeWiz11&theme=dark&hide_border=false)<br/>
 <h1>Github stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width=50 height=50 align="center"></img></h1>
-<img src="https://github-readme-stats.vercel.app/api?username=codedmachine111&show_icons=true&theme=gruvbox" width=600></img>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedmachine111&theme=gruvbox"" width=300></img>
+<img src="https://github-readme-stats.vercel.app/api?username=CodeWiz11&show_icons=true&theme=gruvbox" width=600></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWiz11&theme=gruvbox"" width=300></img>
 ---
 [![](https://visitcount.itsvg.in/api?id=CodeWiz11&icon=0&color=0)](https://visitcount.itsvg.in)
 
