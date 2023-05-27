@@ -21,8 +21,7 @@
 <h1>Connect with me 🔗</h1>
 <div>
 
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/whoisakashh)
-
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charlesbabbage1709@gmail.com)
-  
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roshithhegde22@gmail.com)
+<a href="https://linkedin.com/in/roshith-hegde-653308264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshith-hegde-653308264" height="30" width="40" /></a>
+</p>
 </div>
