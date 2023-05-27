@@ -1,3 +1,4 @@
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)]
 <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">  I'm Roshith</h1>
 <img align="right" alt = "coding" width = "400" src = "https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 <p>I am pursuing my bachelor's degree in Electronics and Communications at KLE Technological University in Hubli, India.I'm interested in frontend web development and am presently learning Javascript and React. I keep up to date on new technology on a regular basis. I'm excited to cooperate and construct initiatives.</p>
