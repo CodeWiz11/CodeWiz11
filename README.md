@@ -5,8 +5,8 @@
 <h1 align="left">Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px></h1>
 
 
-|![](https://img.shields.io/badge/-html5-black?logo=html5&style=for-the-badge)|![](https://img.shields.io/badge/-css3-black?logo=css3&style=for-the-badge&logoColor=%231572B6)|![](https://img.shields.io/badge/-javascript-black?logo=javascript&style=for-the-badge&logoColor=%23F7DF1E)|![](https://img.shields.io/badge/-React-black?logo=react&style=for-the-badge)|
-|![](https://img.shields.io/badge/-git-black?logo=git&style=for-the-badge)|![](https://img.shields.io/badge/-github-black?logo=github&style=for-the-badge)|![](https://img.shields.io/badge/-arduino-black?logo=arduino&style=for-the-badge)|
+![](https://img.shields.io/badge/-html5-black?logo=html5&style=for-the-badge) ![](https://img.shields.io/badge/-css3-black?logo=css3&style=for-the-badge&logoColor=%231572B6) ![](https://img.shields.io/badge/-javascript-black?logo=javascript&style=for-the-badge&logoColor=%23F7DF1E) ![](https://img.shields.io/badge/-React-black?logo=react&style=for-the-badge) 
+ ![](https://img.shields.io/badge/-git-black?logo=git&style=for-the-badge) ![](https://img.shields.io/badge/-github-black?logo=github&style=for-the-badge) ![](https://img.shields.io/badge/-arduino-black?logo=arduino&style=for-the-badge) 
 
 <h1>Github stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width=50 height=50 align="center"></img></h1>
 <img src="https://github-readme-stats.vercel.app/api?username=CodeWiz11&show_icons=true&theme=gruvbox" width=600></img>
