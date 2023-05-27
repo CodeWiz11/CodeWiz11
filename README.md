@@ -1,4 +1,5 @@
 <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">  I'm Roshith Hegde.</h1>
+<img align="right" alt = "coding" width = "400" src = "https://github.com/rudrabarad/Gifs">
 <p>I am currently pusuing my bachelor's at KLE Technological University, Hubli, India.I take interest in Frontend Web development and I am currently in the process of learning Javascript and React. I regulary keep track with regards to newer technologies. I look forward to collaborate and build projects.</p>
 <hr>
 
