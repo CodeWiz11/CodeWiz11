@@ -1,6 +1,6 @@
 # About Me:
 Hey! I am Roshith, currently pursuing my bachelor's in Electronics and communication at KLE Technological University, Hubli. <br>I am interested in Frontend Web development. I am currently learning Javascript and React. 
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/roshith-hegde-653308264) 
