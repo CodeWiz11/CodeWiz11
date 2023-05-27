@@ -1,5 +1,5 @@
-<h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">  I'm Akash Nayak.</h1>
-<p>Hello, I am Roshith, currently pusuing my bachelor's at KLE Technological University, Hubli, India.I take interest in Frontend Web development and I am currently in the process of learning Javascript and React. I regulary keep track with regards to newer technologies. I look forward to collaborate and build projects.</p>
+<h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">  I'm Roshith Hegde</h1>
+<p>I am currently pusuing my bachelor's at KLE Technological University, Hubli, India.I take interest in Frontend Web development and I am currently in the process of learning Javascript and React. I regulary keep track with regards to newer technologies. I look forward to collaborate and build projects.</p>
 
 <h1 align="left">Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px></h1>
 
