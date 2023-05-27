@@ -1,18 +1,29 @@
-# About Me:
-Hey! I am Roshith, currently pursuing my bachelor's in Electronics and communication at KLE Technological University, Hubli. <br>I am interested in Frontend Web development. I am currently learning Javascript and React. 
+<h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">  I'm Akash Nayak.</h1>
+<p>A tech enthusiast, pursuing Bachelor's degree in Electronics and Communications at KLE Technological University, Hubli. I build websites using Reactjs and practice Data Structures and Algorithms using Java.I am currently learning Fullstack MERN development and Deep Learning. I am curious to explore other tech fields like DevOps and Blockchain Development.</p>
+<p>I learn fast and grasp quickly to new technologies and frameworks. I am available to work on new technologies.</p>
+<hr>
+<h1 align="left">Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px></h1>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/roshith-hegde-653308264) 
+|![](https://img.shields.io/badge/-html5-black?logo=html5&style=for-the-badge)|![](https://img.shields.io/badge/-css3-black?logo=css3&style=for-the-badge&logoColor=%231572B6)|![](https://img.shields.io/badge/-javascript-black?logo=javascript&style=for-the-badge&logoColor=%23F7DF1E)|![](https://img.shields.io/badge/-React-black?logo=react&style=for-the-badge)|![](https://img.shields.io/badge/-node-black?logo=nodedotjs&style=for-the-badge)|
+|---|---|---|---|---|
+|![](https://img.shields.io/badge/-git-black?logo=git&style=for-the-badge)|![](https://img.shields.io/badge/-github-black?logo=github&style=for-the-badge)|![](https://img.shields.io/badge/-linux-black?logo=linux&style=for-the-badge)|![](https://img.shields.io/badge/-java-black?logo=java&style=for-the-badge)|![](https://img.shields.io/badge/-python3-black?logo=python&style=for-the-badge)|
+|![](https://img.shields.io/badge/-arduino-black?logo=arduino&style=for-the-badge)|![](https://img.shields.io/badge/-sass-black?logo=sass&style=for-the-badge)|![](https://img.shields.io/badge/-npm-black?logo=npm&style=for-the-badge)|![](https://img.shields.io/badge/-firebase-black?logo=firebase&style=for-the-badge)|![](https://img.shields.io/badge/-c-black?logo=c&style=for-the-badge)|
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RoshithHegde&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RoshithHegde&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RoshithHegde&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<hr>
+<img src="https://holopin.me/codedmachine" width=600></img>
+<hr>
+<h1>Github stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width=50 height=50 align="center"></img></h1>
+<img src="https://github-readme-stats.vercel.app/api?username=codedmachine111&show_icons=true&theme=gruvbox" width=600></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedmachine111&theme=gruvbox"" width=300></img>
 
----
-[![](https://visitcount.itsvg.in/api?id=RoshithHegde&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<hr>
+<h1>Connect with me 🔗</h1>
+<div>
+
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/whoisakashh)
+
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charlesbabbage1709@gmail.com)
+  
+</div>
