@@ -12,7 +12,7 @@
 <h1>Github stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width=50 height=50 align="center"></img></h1>
 <img src="https://github-readme-stats.vercel.app/api?username=CodeWiz11&show_icons=true&theme=gruvbox" width=600></img>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWiz11&theme=gruvbox"" width=300></img>
-[![trophy](https://github-profile-trophy.vercel.app/?username=CodeWiz11&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 <hr>
@@ -22,8 +22,9 @@
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roshith-hegde-653308264?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bf05JDQr9QTSttWUXoYjEXQ%3D%3D)
 
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roshithhegde22@gmail.com)
-                                                                                                  
-
+    
+<h1>Trophies</h1>
+[![trophy](https://github-profile-trophy.vercel.app/?username=CodeWiz11&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
   
 </div>
