@@ -21,7 +21,9 @@
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roshith-hegde-653308264?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bf05JDQr9QTSttWUXoYjEXQ%3D%3D)
 
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roshithhegde22@gmail.com)
+                                                                                                  
+[![trophy](https://github-profile-trophy.vercel.app/?username=CodeWiz11&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+
   
 </div>
-[![trophy](https://github-profile-trophy.vercel.app/?username=CodeWiz11&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
