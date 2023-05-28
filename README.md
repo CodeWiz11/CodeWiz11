@@ -23,9 +23,9 @@
 
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roshithhegde22@gmail.com)
     
-<h1>Trophies</h1>
-[![trophy](https://github-profile-trophy.vercel.app/?username=CodeWiz11&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-  
 </div>
+
+<hr>
+<h1>HI</h1>
+
 
