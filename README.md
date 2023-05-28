@@ -27,5 +27,7 @@
 
 <hr>
 <h1>HI</h1>
-
+<div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=CodeWiz11&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 
